@@ -1,0 +1,2 @@
+Ceci est un test pour vérifier que le CDN marche correctement.
+- L'équipe de développement

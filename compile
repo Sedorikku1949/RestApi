@@ -1,0 +1,6 @@
+#!/bin/bash
+
+echo "Compiling..."
+npx tsc
+echo "Compiling task is finished"
+node .
