@@ -3,3 +3,4 @@
 .idea
 src/config.json
 build
+package-lock.json
