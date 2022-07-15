@@ -1,8 +1,4 @@
 {
-  "devDependencies": {
-    "@types/ejs": "^3.1.1",
-    "typescript": "^4.7.4"
-  },
   "name": "kadyapi",
   "version": "0.0.1",
   "description": "The Kady Web & Rest API",
@@ -15,7 +11,10 @@
   "dependencies": {
     "@types/node": "^18.0.3",
     "ejs": "^3.1.8",
-    "shellyeval": "^1.0.4",
     "tslib": "^2.4.0"
+  },
+  "devDependencies": {
+    "@types/ejs": "^3.1.1",
+    "typescript": "^4.7.4"
   }
 }
